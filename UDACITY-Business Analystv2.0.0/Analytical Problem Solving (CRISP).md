@@ -11,3 +11,5 @@ The framework is made up of 6 steps:
 * Analysis/Modeling
 * Validation
 * Presentation/Visualization
+
+![image](https://user-images.githubusercontent.com/62761388/119034354-9e719e80-b984-11eb-82bd-4dc680b08f22.png)
