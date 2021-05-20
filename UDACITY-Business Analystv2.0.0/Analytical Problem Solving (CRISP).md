@@ -27,3 +27,34 @@ What type of analysis can provide the information needed to inform those decisio
 What data is needed?
 What data is available?
 What are the important characteristics of the data?
+
+## Data Preparation
+
+"The data preparation phase covers all activities to construct the final dataset (data that will be fed into the modeling tool(s)) from the initial raw data. Data preparation tasks are likely to be performed multiple times, and not in any prescribed order. Tasks include table, record, and attribute selection as well as transformation and cleaning of data for modeling tools." - Wikipedia
+
+Common Steps Used in Data Preparation
+
+Gathering: When gathering data - you may need to collect data from multiple sources within your organization.
+
+Cleansing: The data set you are working with may have issues that you want to resolve prior to your analysis. This can be in the form of incorrect or missing data.
+
+Formatting: You may need to format the data by changing the way a date field appears, renaming a field, or even rotating the data, similar to using a pivot table.
+
+Blending: You may want to blend, or combine, your data with other datasets to enrich it with additional variables, similar to using the vlookup function in Excel.
+
+Sampling: Lastly, you may want to sample the dataset and work with a more manageable number of records.
+
+## Data Modeling
+
+### Analysis/Modeling
+"In this phase, various modeling techniques are selected and applied, and their parameters are calibrated to optimal values. Typically, there are several techniques for the same data mining problem type. Some techniques have specific requirements on the form of data. Therefore, stepping back to the data preparation phase is often needed." - Wikipedia
+
+Important Steps
+Determine what methodology to use to solve the problem
+
+Determine the important factors or variables that will help solve the problem
+
+Build a model to solve the problem
+
+Run the model and move to the validation phase
+
